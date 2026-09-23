@@ -1,4 +1,5 @@
-# ĐỀ Tin học cơ sở 2 PTIT (Đề C CodePTIT)
+# [Đề và Code môn Tin học cơ sở 2 (Code C)](https://github.com/nvbangg/CodePTIT_THCS2) trên [CodePTIT](https://code.ptit.edu.vn)
+## Source: https://github.com/nvbangg/PTIT_Docs
 
 ## KIỂU DỮ LIỆU VÀ PHÉP TOÁN
 
